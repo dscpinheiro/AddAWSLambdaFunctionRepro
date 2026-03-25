@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LambdaRepro.AppHost\LambdaRepro.AppHost.csproj" />
+  <Project Path="MyLambdaFunction\MyLambdaFunction.csproj" />
+</Solution>
